@@ -5,6 +5,7 @@
 ## Bookcase
 
 * [太平天国运动史](bookcase/tai-ping-tian-guo-yun-dong-shi.md)
+  * [目录](bookcase/mu-lu.md)
 
 ## Getting Started
 
