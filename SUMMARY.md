@@ -8,6 +8,7 @@
   * [目录](bookcase/mu-lu.md)
   * 第一章  革命前夕的社会状况
     * [第一节  封建经济的危机](bookcase/chapter-1/section-1.md)
+    * [第二节  清政府的腐朽统治](bookcase/chapter-1/section-2.md)
 
 ## Getting Started
 
